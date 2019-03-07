@@ -1,6 +1,6 @@
 <?php
 
-namespace Agoat\EventSourcing;
+namespace Agoat\EventSourcing\Domain;
 
 
 abstract class DomainEvent
