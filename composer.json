@@ -9,6 +9,12 @@
             "email": "mehh@agoat.xyz"
         }
     ],
+    "autoload": {
+        "psr-4": { "Agoat\\EventSourcing\\": "" },
+        "exclude-from-classmap": [
+            "/Tests/"
+        ]
+    },
     "minimum-stability": "dev",
     "require": {}
 }
