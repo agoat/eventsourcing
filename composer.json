@@ -1,0 +1,14 @@
+{
+    "name": "agoat/eventsourcing",
+    "description": "Helper classes to implement event sourcing in php",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arne Stappen (alias aGoat)",
+            "email": "mehh@agoat.xyz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
